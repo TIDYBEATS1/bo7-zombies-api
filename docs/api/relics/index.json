@@ -1,7 +1,21 @@
 {
   "version": "1.0",
-  "count": 1,
+  "count": 3,
   "relics": [
+    {
+      "id": "lawyers-pen",
+      "name": "Lawyer's Pen",
+      "map": "Ashes of the Damned",
+      "rarity": "Grim",
+      "image": "/images/relics/lawyers-pen.png"
+    },
+    {
+      "id": "dragon-wings",
+      "name": "Dragon Wings",
+      "map": "Ashes of the Damned",
+      "rarity": "Grim",
+      "image": "/images/relics/dragon-wings.png"
+    },
     {
       "id": "teddy-bear",
       "name": "Teddy Bear",
