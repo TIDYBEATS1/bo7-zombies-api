@@ -1,0 +1,9 @@
+{
+  "id": "teddy-bear",
+  "name": "Teddy Bear",
+  "map": "Ashes of the Damned",
+  "rarity": "Grim",
+  "effect": "Round start delay is cut down by 75%.",
+  "unlock": "Find 10 Mister Peeks stuffed animals and shoot them with the Necrofluid Gauntlet while in Aether Shroud, then interact with the Relic Portal at the Shed.",
+  "image": "/images/relics/teddy-bear.png"
+}
