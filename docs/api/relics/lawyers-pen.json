@@ -1,0 +1,9 @@
+{
+  "id": "lawyers-pen",
+  "name": "Lawyer's Pen",
+  "rarity": "Grim",
+  "map": "Ashes of the Damned",
+  "effect": "Mimic props have infiltrated the map.",
+  "unlock": "On or after round 20, red candles can be found in a Cabin between Ashwood and Blackwater Lake, next to Juggernog in Ashwood, and in the bedroom of the Farmhouse. Shoot all three with a weapon equipped with the Napalm Ammo Mod or a Molotov Cocktail. After doing so, interact with the Relic Portal on the side of the barn.",
+  "image": "https://TIDYBEATS1.github.io/bo7-zombies-api/images/relics/lawyers-pen.png"
+}
