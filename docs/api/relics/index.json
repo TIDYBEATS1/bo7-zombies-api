@@ -3,11 +3,11 @@
   "count": 1,
   "relics": [
     {
-      "id": "lawyers-pen",
-      "name": "Lawyer's Pen",
-      "rarity": "Grim",
+      "id": "teddy-bear",
+      "name": "Teddy Bear",
       "map": "Ashes of the Damned",
-      "image": "/images/relics/lawyers-pen.png"
+      "rarity": "Grim",
+      "image": "/images/relics/teddy-bear.png"
     }
   ]
 }
