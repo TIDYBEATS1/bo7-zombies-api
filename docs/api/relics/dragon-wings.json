@@ -1,0 +1,9 @@
+{
+  "id": "dragon-wings",
+  "name": "Dragon Wings",
+  "map": "Ashes of the Damned",
+  "rarity": "Grim",
+  "effect": "Normal Power-Ups spawns are disabled.",
+  "unlock": "On or after round 20, take the Jump Pad from Vandorn Farm to Janus Towers Plaza and shoot three purple symbols on buildings. Then interact with the Relic Portal on the Farmhouse.",
+  "image": "/images/relics/dragon-wings.png"
+}
