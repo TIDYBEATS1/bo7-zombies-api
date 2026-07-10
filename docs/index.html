@@ -1,17 +1,189 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BO7 Zombies API</title>
-</head>
-<body>
-    <h1>BO7 Zombies API</h1>
-    <p>The API is online.</p>
+<meta charset="UTF-8">
+<title>BO7 Zombies Relics API</title>
 
-    <h2>Endpoints</h2>
-    <ul>
-        <li><a href="api/relics/index.json">Relics Index</a></li>
-    </ul>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background:#111;
+    color:white;
+    margin:0;
+    padding:20px;
+}
+
+h1 {
+    text-align:center;
+}
+
+.controls {
+    display:flex;
+    gap:10px;
+    justify-content:center;
+    margin-bottom:20px;
+}
+
+input, select {
+    padding:10px;
+    border-radius:8px;
+    border:none;
+}
+
+.grid {
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(220px,1fr));
+    gap:20px;
+}
+
+.card {
+    background:#222;
+    border-radius:15px;
+    padding:15px;
+    text-align:center;
+}
+
+.card img {
+    width:150px;
+    height:150px;
+    object-fit:contain;
+}
+
+.grim {
+    border:2px solid #777;
+}
+
+.sinister {
+    border:2px solid purple;
+}
+
+.wicked {
+    border:2px solid red;
+}
+
+a {
+    color:white;
+    text-decoration:none;
+}
+
+</style>
+</head>
+
+<body>
+
+<h1>Call of Duty Black Ops 7 Zombies Relics</h1>
+
+<div class="controls">
+
+<input id="search" placeholder="Search relics">
+
+<select id="rarity">
+<option value="">All Rarities</option>
+<option value="Grim">Grim</option>
+<option value="Sinister">Sinister</option>
+<option value="Wicked">Wicked</option>
+</select>
+
+</div>
+
+
+<div class="grid" id="relics"></div>
+
+
+<script>
+
+let allRelics = [];
+
+
+fetch("./api/relics/index.json")
+.then(r => r.json())
+.then(data => {
+
+    allRelics=data.relics;
+    display(allRelics);
+
+});
+
+
+function display(relics){
+
+let box=document.getElementById("relics");
+
+box.innerHTML="";
+
+
+relics.forEach(r=>{
+
+let card=document.createElement("div");
+
+card.className="card "+r.rarity.toLowerCase();
+
+
+card.innerHTML=`
+
+<img src="${r.image}">
+
+<h2>${r.name}</h2>
+
+<p>${r.map}</p>
+
+<p>${r.rarity}</p>
+
+<a href="./api/relics/${r.id}.json">
+View JSON
+</a>
+
+`;
+
+box.appendChild(card);
+
+
+});
+
+}
+
+
+
+function filter(){
+
+let search=document
+.getElementById("search")
+.value
+.toLowerCase();
+
+
+let rarity=document
+.getElementById("rarity")
+.value;
+
+
+let filtered=allRelics.filter(r=>{
+
+return (
+r.name.toLowerCase().includes(search)
+&&
+(!rarity || r.rarity===rarity)
+);
+
+});
+
+
+display(filtered);
+
+}
+
+
+document
+.getElementById("search")
+.addEventListener("input",filter);
+
+
+document
+.getElementById("rarity")
+.addEventListener("change",filter);
+
+
+</script>
+
 </body>
-</html> 
+</html>
