@@ -1,0 +1,9 @@
+{
+  "id": "vril-sphere",
+  "name": "Vril Sphere",
+  "map": "Ashes of the Damned",
+  "rarity": "Sinister",
+  "effect": "Players can only carry 4 Perk-a-Colas. Acquiring a fifth replaces the player's oldest perk.",
+  "unlock": "On or after round 40 in a Tier I game, kill a Doppelghast by launching it from a Jump Pad. Then interact with the Relic Portal at the Cosmodrome's Ramp.",
+  "image": "/images/relics/vril-sphere.png"
+}
