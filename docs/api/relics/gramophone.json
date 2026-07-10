@@ -5,5 +5,5 @@
   "rarity": "Grim",
   "effect": "Bullets deal increased damage but each shot consumes 2 bullets.",
   "unlock": "Reach round 20 in Cursed mode on Kowakuj\u014d. Complete the hidden Gramophone quest, activate the Relic Portal, then complete the Relic Trial.",
-  "image": "/images/relics/gramophone.png"
+  "image": "./images/relics/gramophone.png"
 }

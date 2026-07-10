@@ -5,5 +5,5 @@
   "rarity": "Grim",
   "effect": "No bleed out bar. Self-revives instantly revive you.",
   "unlock": "Reach round 20 in Cursed mode on Kowakuj\u014d. Complete the hidden Druid Stone quest, activate the Relic Portal, then complete the Relic Trial.",
-  "image": "/images/relics/druid-stone.png"
+  "image": "./images/relics/druid-stone.png"
 }

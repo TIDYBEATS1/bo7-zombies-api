@@ -5,5 +5,5 @@
   "rarity": "Sinister",
   "effect": "Health regeneration delay is increased.",
   "unlock": "Reach round 40 in Tier I Cursed mode on Totenreich. Complete the hidden Stuffed Elephant quest, activate the Relic Portal, then complete the Relic Trial.",
-  "image": "/images/relics/stuffed-elephant.png"
+  "image": "./images/relics/stuffed-elephant.png"
 }

@@ -5,5 +5,5 @@
   "rarity": "Wicked",
   "effect": "Enemy health regenerates.",
   "unlock": "Reach round 60 in Tier II Cursed. Complete a round without firing a weapon or using melee. Then interact with the Relic Portal at Blackwater Lake.",
-  "image": "/images/relics/bus.png"
+  "image": "./images/relics/bus.png"
 }

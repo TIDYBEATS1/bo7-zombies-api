@@ -5,5 +5,5 @@
   "rarity": "Grim",
   "effect": "Mimics props have infiltrated the map.",
   "unlock": "Reach round 20 in Cursed mode. Light the three red candles at the Cabin between Ashwood and Blackwater Lake, Juggernog in Ashwood, and Farmhouse bedroom using Napalm Burst or a Molotov. Then interact with the Relic Portal at the Barn.",
-  "image": "/images/relics/lawyers-pen.png"
+  "image": "./images/relics/lawyers-pen.png"
 }

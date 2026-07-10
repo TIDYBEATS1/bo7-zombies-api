@@ -5,5 +5,5 @@
   "rarity": "Wicked",
   "effect": "Enemies deal double damage.",
   "unlock": "Reach round 60 in Tier II Cursed mode on Astra Malorum. Complete the Golden Spork hidden quest, enter the Relic Portal and complete the Relic Trial.",
-  "image": "/images/relics/golden-spork.png"
+  "image": "./images/relics/golden-spork.png"
 }

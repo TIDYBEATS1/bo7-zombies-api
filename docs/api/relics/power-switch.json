@@ -5,5 +5,5 @@
   "rarity": "Grim",
   "effect": "Tactical and lethal equipment randomizes each round.",
   "unlock": "Reach round 20 in Cursed mode on Totenreich. Complete the hidden Power Switch quest, activate the Relic Portal, then complete the Relic Trial.",
-  "image": "/images/relics/power-switch.png"
+  "image": "./images/relics/power-switch.png"
 }

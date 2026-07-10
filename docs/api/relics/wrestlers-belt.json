@@ -5,5 +5,5 @@
   "rarity": "Grim",
   "effect": "Weapon Wallbuys randomize each round.",
   "unlock": "Reach round 20 in Cursed mode on Totenreich. Complete the hidden Wrestler's Belt quest, activate the Relic Portal, then complete the Relic Trial.",
-  "image": "/images/relics/wrestlers-belt.png"
+  "image": "./images/relics/wrestlers-belt.png"
 }

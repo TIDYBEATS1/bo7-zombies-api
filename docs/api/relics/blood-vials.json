@@ -5,5 +5,5 @@
   "rarity": "Wicked",
   "effect": "All Augments are turned off.",
   "unlock": "Reach round 20 in Tier II Cursed. Find the ringing red phone and interact with it every ten rounds until complete. Then interact with the Relic Portal inside the Blackwater Lake cabin.",
-  "image": "/images/relics/blood-vials.png"
+  "image": "./images/relics/blood-vials.png"
 }

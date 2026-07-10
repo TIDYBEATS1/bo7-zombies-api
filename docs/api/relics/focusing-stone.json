@@ -5,5 +5,5 @@
   "rarity": "Sinister",
   "effect": "No craftable Self Revive kits.",
   "unlock": "Kill a Zursa with melee and complete T.E.D.D. Tasks. Place the wine bottles at Blackwater Lake, complete the memory game, then interact with the Relic Portal.",
-  "image": "/images/relics/focusing-stone.png"
+  "image": "./images/relics/focusing-stone.png"
 }

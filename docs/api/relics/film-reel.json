@@ -5,5 +5,5 @@
   "rarity": "Sinister",
   "effect": "Player can only carry one Pack-a-Punch weapon.",
   "unlock": "Reach round 40 in Tier I Cursed mode on Kowakuj\u014d. Complete the hidden Film Reel quest, activate the Relic Portal, then complete the Relic Trial.",
-  "image": "/images/relics/film-reel.png"
+  "image": "./images/relics/film-reel.png"
 }

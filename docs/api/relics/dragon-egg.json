@@ -5,5 +5,5 @@
   "rarity": "Wicked",
   "effect": "Elite and Special zombies in normal rounds are randomized.",
   "unlock": "Reach round 60 in Tier II Cursed mode on Kowakuj\u014d. Complete the hidden Dragon Egg quest, activate the Relic Portal, then complete the Relic Trial.",
-  "image": "/images/relics/dragon-egg.png"
+  "image": "./images/relics/dragon-egg.png"
 }

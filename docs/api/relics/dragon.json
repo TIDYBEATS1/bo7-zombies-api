@@ -5,5 +5,5 @@
   "rarity": "Wicked",
   "effect": "All Ammo Caches are disabled.",
   "unlock": "Reach round 60 in Tier II Cursed. Complete the Ashes of the Damned main quest Dust To Dust. Then interact with the Relic Portal.",
-  "image": "/images/relics/dragon.png"
+  "image": "./images/relics/dragon.png"
 }

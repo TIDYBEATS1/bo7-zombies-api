@@ -5,5 +5,5 @@
   "rarity": "Grim",
   "effect": "Normal Power-Ups spawns are disabled.",
   "unlock": "Reach round 20 in Cursed mode. Take the Jump Pad from Vandorn Farm to Janus Towers Plaza and shoot the three purple symbols in the area. Then interact with the Relic Portal at the Farmhouse.",
-  "image": "/images/relics/dragon-wings.png"
+  "image": "./images/relics/dragon-wings.png"
 }
