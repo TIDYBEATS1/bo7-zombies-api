@@ -1,0 +1,9 @@
+{
+  "id": "summoning-key",
+  "name": "Summoning Key",
+  "map": "Paradox Junction",
+  "rarity": "Sinister",
+  "effect": "Zombies explode on death, dealing damage to nearby players.",
+  "unlock": "Reach round 40 in Tier I Cursed mode on Paradox Junction. Complete the hidden Summoning Key quest, interact with the Relic Portal, then complete the Relic Trial.",
+  "image": "/images/relics/summoning-key.png"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "civil-protector-head",
+  "name": "Civil Protector Head",
+  "map": "Astra Malorum",
+  "rarity": "Wicked",
+  "effect": "Every 100 kills you lose a perk.",
+  "unlock": "Reach round 60 in Tier II Cursed mode on Astra Malorum. Complete the Civil Protector Head quest, interact with the Relic Portal and complete the Relic Trial.",
+  "image": "/images/relics/civil-protector-head.png"
+}

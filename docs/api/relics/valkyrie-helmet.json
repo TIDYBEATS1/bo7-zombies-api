@@ -1,0 +1,9 @@
+{
+  "id": "valkyrie-helmet",
+  "name": "Valkyrie Helmet",
+  "map": "Kowakuj\u014d",
+  "rarity": "Sinister",
+  "effect": "Areas you can stay in spawn electric fields that damage you.",
+  "unlock": "Reach round 40 in Tier I Cursed mode on Kowakuj\u014d. Complete the hidden Valkyrie Helmet quest, activate the Relic Portal, then complete the Relic Trial.",
+  "image": "/images/relics/valkyrie-helmet.png"
+}

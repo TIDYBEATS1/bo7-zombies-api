@@ -1,0 +1,9 @@
+{
+  "id": "matryoshka-doll",
+  "name": "Matryoshka Doll",
+  "map": "Astra Malorum",
+  "rarity": "Sinister",
+  "effect": "Salvage drop rate is halved.",
+  "unlock": "Reach round 40 in Tier I Cursed mode on Astra Malorum. Complete the Matryoshka Doll quest, activate the Relic Portal, then complete the Relic Trial.",
+  "image": "/images/relics/matryoshka-doll.png"
+}

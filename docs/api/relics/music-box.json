@@ -1,0 +1,9 @@
+{
+  "id": "music-box",
+  "name": "Music Box",
+  "map": "Totenreich",
+  "rarity": "Wicked",
+  "effect": "Enemies only take critical damage.",
+  "unlock": "Reach round 60 in Tier II Cursed mode on Totenreich. Complete the hidden Music Box quest, activate the Relic Portal, then complete the Relic Trial.",
+  "image": "/images/relics/music-box.png"
+}

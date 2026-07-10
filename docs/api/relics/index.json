@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "count": 4,
+  "count": 30,
   "relics": [
     {
       "id": "lawyers-pen",
@@ -22,13 +22,195 @@
       "map": "Ashes of the Damned",
       "rarity": "Grim",
       "image": "/images/relics/teddy-bear.png"
-    }, 
+    },
     {
       "id": "vril-sphere",
       "name": "Vril Sphere",
       "map": "Ashes of the Damned",
       "rarity": "Sinister",
       "image": "/images/relics/vril-sphere.png"
+    },
+    {
+      "id": "samanthas-drawing",
+      "name": "Samantha's Drawing",
+      "map": "Ashes of the Damned",
+      "rarity": "Sinister",
+      "image": "/images/relics/samanthas-drawing.png"
+    },
+    {
+      "id": "focusing-stone",
+      "name": "Focusing Stone",
+      "map": "Ashes of the Damned",
+      "rarity": "Sinister",
+      "image": "/images/relics/focusing-stone.png"
+    },
+    {
+      "id": "bus",
+      "name": "Bus",
+      "map": "Ashes of the Damned",
+      "rarity": "Wicked",
+      "image": "/images/relics/bus.png"
+    },
+    {
+      "id": "dragon",
+      "name": "Dragon",
+      "map": "Ashes of the Damned",
+      "rarity": "Wicked",
+      "image": "/images/relics/dragon.png"
+    },
+    {
+      "id": "blood-vials",
+      "name": "Blood Vials",
+      "map": "Ashes of the Damned",
+      "rarity": "Wicked",
+      "image": "/images/relics/blood-vials.png"
+    },
+    {
+      "id": "gong",
+      "name": "Gong",
+      "map": "Astra Malorum",
+      "rarity": "Grim",
+      "image": "/images/relics/gong.png"
+    },
+    {
+      "id": "seed",
+      "name": "Seed",
+      "map": "Astra Malorum",
+      "rarity": "Grim",
+      "image": "/images/relics/seed.png"
+    },
+    {
+      "id": "spider-fang",
+      "name": "Spider Fang",
+      "map": "Astra Malorum",
+      "rarity": "Sinister",
+      "image": "/images/relics/spider-fang.png"
+    },
+    {
+      "id": "matryoshka-doll",
+      "name": "Matryoshka Doll",
+      "map": "Astra Malorum",
+      "rarity": "Sinister",
+      "image": "/images/relics/matryoshka-doll.png"
+    },
+    {
+      "id": "golden-spork",
+      "name": "Golden Spork",
+      "map": "Astra Malorum",
+      "rarity": "Wicked",
+      "image": "/images/relics/golden-spork.png"
+    },
+    {
+      "id": "civil-protector-head",
+      "name": "Civil Protector Head",
+      "map": "Astra Malorum",
+      "rarity": "Wicked",
+      "image": "/images/relics/civil-protector-head.png"
+    },
+    {
+      "id": "rocket",
+      "name": "Rocket",
+      "map": "Paradox Junction",
+      "rarity": "Grim",
+      "image": "/images/relics/rocket.png"
+    },
+    {
+      "id": "summoning-key",
+      "name": "Summoning Key",
+      "map": "Paradox Junction",
+      "rarity": "Sinister",
+      "image": "/images/relics/summoning-key.png"
+    },
+    {
+      "id": "mangler-helmet",
+      "name": "Mangler Helmet",
+      "map": "Paradox Junction",
+      "rarity": "Wicked",
+      "image": "/images/relics/mangler-helmet.png"
+    },
+    {
+      "id": "power-switch",
+      "name": "Power Switch",
+      "map": "Totenreich",
+      "rarity": "Grim",
+      "image": "/images/relics/power-switch.png"
+    },
+    {
+      "id": "wrestlers-belt",
+      "name": "Wrestler's Belt",
+      "map": "Totenreich",
+      "rarity": "Grim",
+      "image": "/images/relics/wrestlers-belt.png"
+    },
+    {
+      "id": "stuffed-elephant",
+      "name": "Stuffed Elephant",
+      "map": "Totenreich",
+      "rarity": "Sinister",
+      "image": "/images/relics/stuffed-elephant.png"
+    },
+    {
+      "id": "dancing-arnie",
+      "name": "Dancing Arnie",
+      "map": "Totenreich",
+      "rarity": "Sinister",
+      "image": "/images/relics/dancing-arnie.png"
+    },
+    {
+      "id": "agarthan-device",
+      "name": "Agarthan Device",
+      "map": "Totenreich",
+      "rarity": "Wicked",
+      "image": "/images/relics/agarthan-device.png"
+    },
+    {
+      "id": "music-box",
+      "name": "Music Box",
+      "map": "Totenreich",
+      "rarity": "Wicked",
+      "image": "/images/relics/music-box.png"
+    },
+    {
+      "id": "gramophone",
+      "name": "Gramophone",
+      "map": "Kowakuj\u014d",
+      "rarity": "Grim",
+      "image": "/images/relics/gramophone.png"
+    },
+    {
+      "id": "druid-stone",
+      "name": "Druid Stone",
+      "map": "Kowakuj\u014d",
+      "rarity": "Grim",
+      "image": "/images/relics/druid-stone.png"
+    },
+    {
+      "id": "valkyrie-helmet",
+      "name": "Valkyrie Helmet",
+      "map": "Kowakuj\u014d",
+      "rarity": "Sinister",
+      "image": "/images/relics/valkyrie-helmet.png"
+    },
+    {
+      "id": "film-reel",
+      "name": "Film Reel",
+      "map": "Kowakuj\u014d",
+      "rarity": "Sinister",
+      "image": "/images/relics/film-reel.png"
+    },
+    {
+      "id": "dragon-egg",
+      "name": "Dragon Egg",
+      "map": "Kowakuj\u014d",
+      "rarity": "Wicked",
+      "image": "/images/relics/dragon-egg.png"
+    },
+    {
+      "id": "mannequin-turret",
+      "name": "Mannequin Turret",
+      "map": "Kowakuj\u014d",
+      "rarity": "Wicked",
+      "image": "/images/relics/mannequin-turret.png"
     }
   ]
 }

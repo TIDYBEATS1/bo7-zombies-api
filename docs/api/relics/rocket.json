@@ -1,0 +1,9 @@
+{
+  "id": "rocket",
+  "name": "Rocket",
+  "map": "Paradox Junction",
+  "rarity": "Grim",
+  "effect": "No Score Streaks.",
+  "unlock": "Reach round 20 in Cursed mode on Paradox Junction. Complete the hidden Rocket quest, activate the Relic Portal, then complete the Relic Trial.",
+  "image": "/images/relics/rocket.png"
+}

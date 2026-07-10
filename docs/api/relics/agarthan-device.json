@@ -1,0 +1,9 @@
+{
+  "id": "agarthan-device",
+  "name": "Agarthan Device",
+  "map": "Totenreich",
+  "rarity": "Wicked",
+  "effect": "Each round, the type of zombies will be randomized.",
+  "unlock": "Reach round 60 in Tier II Cursed mode on Totenreich. Complete the hidden Agarthan Device quest, activate the Relic Portal, then complete the Relic Trial.",
+  "image": "/images/relics/agarthan-device.png"
+}

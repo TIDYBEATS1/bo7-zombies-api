@@ -1,0 +1,9 @@
+{
+  "id": "gong",
+  "name": "Gong",
+  "map": "Astra Malorum",
+  "rarity": "Grim",
+  "effect": "Field Upgrade starts charged, but can only be charged by Full Power.",
+  "unlock": "Reach round 20 in Cursed mode on Astra Malorum. Complete the hidden Gong quest to activate the Relic Portal, then complete the Relic Trial.",
+  "image": "/images/relics/gong.png"
+}

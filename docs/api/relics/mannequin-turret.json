@@ -1,0 +1,9 @@
+{
+  "id": "mannequin-turret",
+  "name": "Mannequin Turret",
+  "map": "Kowakuj\u014d",
+  "rarity": "Wicked",
+  "effect": "No starting Armor. Only gold armor is available from the wall buy.",
+  "unlock": "Reach round 60 in Tier II Cursed mode on Kowakuj\u014d. Complete the hidden Mannequin Turret quest, activate the Relic Portal, then complete the Relic Trial.",
+  "image": "/images/relics/mannequin-turret.png"
+}

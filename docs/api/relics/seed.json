@@ -1,0 +1,9 @@
+{
+  "id": "seed",
+  "name": "Seed",
+  "map": "Astra Malorum",
+  "rarity": "Grim",
+  "effect": "Mystery Box is disabled.",
+  "unlock": "Reach round 20 in Cursed mode on Astra Malorum. Complete the hidden Seed quest, interact with the Relic Portal, then complete the Relic Trial.",
+  "image": "/images/relics/seed.png"
+}

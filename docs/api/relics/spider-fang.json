@@ -1,0 +1,9 @@
+{
+  "id": "spider-fang",
+  "name": "Spider Fang",
+  "map": "Astra Malorum",
+  "rarity": "Sinister",
+  "effect": "Perk costs at machines never decrease.",
+  "unlock": "Reach round 40 in Tier I Cursed mode on Astra Malorum. Complete the Spider Fang quest, activate the Relic Portal, then complete the Relic Trial.",
+  "image": "/images/relics/spider-fang.png"
+}

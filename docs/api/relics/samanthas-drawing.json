@@ -1,0 +1,9 @@
+{
+  "id": "samanthas-drawing",
+  "name": "Samantha's Drawing",
+  "map": "Ashes of the Damned",
+  "rarity": "Sinister",
+  "effect": "Weapons swap every round while keeping Pack-a-Punch and rarity.",
+  "unlock": "Feed Chompy every weapon rarity from Common to Legendary. On round 40 or later feed Chompy a Ray Gun or Ray Gun Mark II. Enter the Relic Portal at Zarya Cosmodrome.",
+  "image": "/images/relics/samanthas-drawing.png"
+}

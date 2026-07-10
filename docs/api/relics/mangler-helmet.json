@@ -1,0 +1,9 @@
+{
+  "id": "mangler-helmet",
+  "name": "Mangler Helmet",
+  "map": "Paradox Junction",
+  "rarity": "Wicked",
+  "effect": "No Arsenal.",
+  "unlock": "Reach round 60 in Tier II Cursed mode on Paradox Junction. Complete the hidden Mangler Helmet quest, activate the Relic Portal, then complete the Relic Trial.",
+  "image": "/images/relics/mangler-helmet.png"
+}
